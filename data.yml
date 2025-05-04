@@ -1,0 +1,5 @@
+train: D:/Hanzala/hanzala/DS/License_Plate_Detection/DL/datasets/train/images
+val:   D:/Hanzala/hanzala/DS/License_Plate_Detection/DL/datasets/val/images
+
+nc: 1
+names: ['license_plate']
