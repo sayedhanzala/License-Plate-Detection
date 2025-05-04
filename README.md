@@ -3,6 +3,11 @@
 An end-to-end system for detecting and recognizing license plates using **YOLOv8** for object detection and **EasyOCR** for optical character recognition. This project enables real-time inference on videos and supports training on custom datasets.
 
 ---
+# 📽️ Output Video
+
+[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](assets/output.mp4)
+
+---
 
 ## ✨ Features
 
